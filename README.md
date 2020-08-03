@@ -22,7 +22,7 @@ SCRIPT SSHPLUS MANAGER es un script con un conjunto de características y herram
 
 ## Installation
 
-apt-get update -y; apt-get upgrade -y; wget https://pastebin.com/FK7YqFuG; chmod 777 FK7YqFuG; ./FK7YqFuG
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sauceisgood/ssh-manager/master/Plus; chmod 777 Plus; ./Plus
 
 -------------------------------------------------------------------------------
 
