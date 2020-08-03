@@ -2,9 +2,9 @@
 #====================================================
 #	SCRIPT: CONEXAO SSHPLUS MANAGER
 #   DATA ATT:   15 de Jul 2020
-#	DESENVOLVIDO POR:	CRAZY_VPN
-#	CONTATO TELEGRAM:	http://t.me/crazy_vpn
-#	CANAL TELEGRAM:	http://t.me/sshplus
+#	DESENVOLVIDO POR: Original de CRAZY_VPN
+#	CONTATO TELEGRAM:	http://t.me/cccheckml
+#	CANAL TELEGRAM:	http://t.me/cccheckml
 #====================================================
 _lvk=$(wget -qO- https://raw.githubusercontent.com/sauceisgood/ssh-manager/master/Install/versao)
 IP=$(wget -qO- ipv4.icanhazip.com)
